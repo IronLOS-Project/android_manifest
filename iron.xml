@@ -5,6 +5,10 @@
         fetch="https://github.com/IronLOS-Project"
         sync-j="16" />
 
+    <remote name="pe"
+        revision="eleven"
+        fetch="https://gitlab.pixelexperience.org/android/"
+        sync-j="16" />
 
   <project path="frameworks/base" name="android_frameworks_base" remote="iron" revision="Iron-18.1" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="iron" revision="Iron-18.1" />
@@ -14,7 +18,7 @@
   <!-- Iron Extra -->
   <project path="external/airbnb-lottie" name="android_externa_airbnb-lottie" remote="iron" revision="android_11" />
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="iron" revision="11" />
-  <project path="external/faceunlock" name="external_faceunlock" remote="iron" revision="eleven" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="pe" revision="eleven" />
   <project path="packages/apps/Boxer" name="android_packages_apps_Boxer" remote="iron" revision="Iron-18.1" />
   <project path="packages/apps/FaceUnlockService" name="android_packages_apps_FaceUnlockService" remote="iron" revision="11" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="iron" revision="Iron-18.1" />
