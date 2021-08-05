@@ -12,7 +12,7 @@
   <project path="vendor/lineage" name="android_vendor_lineage" remote="iron" revision="Iron-18.1" />
 
   <!-- Iron Extra -->
-  <project path="externa/airbnb-lottie" name="android_externa_airbnb-lottie" remote="iron" revision="android_11" />
+  <project path="external/airbnb-lottie" name="android_externa_airbnb-lottie" remote="iron" revision="android_11" />
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="iron" revision="11" />
   <project path="external/faceunlock" name="external_faceunlock" remote="iron" revision="eleven" />
   <project path="packages/apps/Boxer" name="android_packages_apps_Boxer" remote="iron" revision="Iron-18.1" />
