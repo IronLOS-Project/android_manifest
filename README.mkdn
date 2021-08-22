@@ -1,6 +1,6 @@
 # IronLOS-Project #
 
-<img src="https://i.imgur.com/FkJTfAD.png">
+<img src="https://i.imgur.com/mqphme9.png">
 
 A Small Description of the IronLOS
 ----------------------------------
