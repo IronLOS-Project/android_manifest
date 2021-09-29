@@ -74,5 +74,5 @@ OR to sync up without spam in your term:
 Build command are:
 ------------------
     . build/envsetup.sh
-    lunch lineage_$device-userdebug
+    lunch ironlos_$device-userdebug
     mka bacon
